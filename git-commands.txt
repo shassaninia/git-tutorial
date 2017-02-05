@@ -1,0 +1,15 @@
+1. git --version = shows the version of git installed
+
+2. git config --global user.name "John" = Tells git the name of user making changes
+
+3. git config --global user.email "John@doe.com" = Tells git the email of user making changes
+
+4. pwd = Print Working Directory
+
+5. cd <path> = Change Directory to the path <path>
+
+6. mkdir <name> = Make directory with name <name>
+
+7. git init = Initializes a new repo. This tells git to start tracking changes.
+
+8. touch <name> = This will create file with the name <name>
