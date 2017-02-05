@@ -13,3 +13,6 @@
 7. git init = Initializes a new repo. This tells git to start tracking changes.
 
 8. touch <name> = This will create file with the name <name>
+
+9. git clone https://gitbub.com/<User>/<RepoName> = This will clone a repo with the name <RepoName>
+                                                    from the server to your local machine.
