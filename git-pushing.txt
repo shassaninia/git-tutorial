@@ -1,0 +1,13 @@
+After creating a repository on github...
+
+1. git clone <repo-address> = Pulls down created repository on github
+                              and puts creates a copy of it on your
+                              local machine
+
+2. git remote -v = Shows where git will fetch changes from and push changes repository
+
+3. git remote set-url origin <repo-url> = This will change where you want to fetch/pull changes.
+                                          Now when we tell git to push to the origin, it will
+                                          push to the url we url
+
+4. git push origin <branch-name> = Push changes to branch with the name <branch-name>
