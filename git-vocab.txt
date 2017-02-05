@@ -1,0 +1,33 @@
+Vocabulary
+==========
+
+1. Project = Repository (repo)
+
+2. Working Directory = Folder location on your computer where your project lives.
+
+3. Commit = Git's way of "saving".
+
+4. Staging = Before we can commit changes, we have to stage changes.  Controls what gets commited.
+
+5. .git = Hidden system folder that stores all the commits, changes, history for our repo.
+          This is stored locally, so we need to host our repo on a hosting server such as github or bitbucket
+
+
+
+Git commands
+============
+
+1. git status = Recap of what has changed
+
+2. git add -A  = adds all changes to staging area
+
+3. git commit -m 'Commit message' = Saves changes with the message 'Commit message'
+
+4. git checkout -- . = Checkouts Repository
+
+5. git push origin master = Pushes local commits to server
+
+6. git pull origin master = Pulls changes from server and puts it into local Repository
+
+ 
+
